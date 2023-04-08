@@ -1,0 +1,11 @@
+@charset "utf-8";
+.Imgfmt {
+    border: thin none #000000;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 200px;
+    height: 250px;
+    float: right;
+}
