@@ -15,6 +15,7 @@ nav li {
     padding-bottom: 5px;
     padding-left: 5px;
 	background-color:#1D1717;
+	height: 3.5rem;
 }
 
 a:link {
@@ -27,15 +28,23 @@ a:visited {
 }
 
 a:hover {
+	font-size:x-large;
 	color:#A2CF36
 }
 
-.emailLinks:hover,.emailLinks:active {
-	
-	font-size:x-large;
-	color:
+.emaillinks:link,.emailLinks:active {
+	color:#2397EF;
+	font-size:large
 	
 }
+
+.emaillinks:hover {
+	color:#7C14EF;
+	font-size:x-large
+	
+	
+}
+
 
 
 
