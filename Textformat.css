@@ -3,3 +3,20 @@
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 }
 
+.imgIPtop {
+	float: left;
+	height: 250px;
+	width: 250px;
+	padding-top: 5px;
+	padding-right:5px;
+	border-radius: 50%	
+}
+
+.imgIPbot {
+	
+	float:right;
+	height: 250px;
+	width: 250px;
+	padding-left: 5px;
+	border-radius: 20px;
+}
